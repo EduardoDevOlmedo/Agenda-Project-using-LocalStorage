@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react'
+import React, { useState, useRef } from 'react'
 import {v4 as uuid} from "uuid"
 
 const Formularo = ({dispatch}) => {
